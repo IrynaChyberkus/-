@@ -1,0 +1,9 @@
+Postman
+Charles
+Fiddler
+DevTools
+Terminal Linux
+SQL
+Postgres
+Redis
+Jmeter
